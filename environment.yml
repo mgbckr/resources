@@ -1,0 +1,13 @@
+name: teaching-datascience
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - ipython
+  - seaborn
+  - scikit-learn
+  - nbconvert
+  - ipykernel
+  - networkx
+prefix: /home/mgbckr/miniconda3/envs/teaching-datascience
